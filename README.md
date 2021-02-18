@@ -26,3 +26,5 @@ This Notebook will show basic examples of:
 Data Analysis:
 
 Supervised Machine learning Techniques: + Logit Regression Model + Plotting results + Support Vector Machine (SVM) using 3 kernels + Basic Random Forest + Plotting results.
+
+PS: Please do not forget to drop a star if you like it!
